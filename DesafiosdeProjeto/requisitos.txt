@@ -1,9 +1,0 @@
-Ensino superior completo em Ciência da Computação, Sistemas de Informação ou áreas correlatas.
-Experiência com métodos ágeis, como Scrum e Kanban
-Desenvolvimento .NET Core; Entity Framework; Microservices; APIs REST e Swagger
-Experiência em testes unitários com Xunit;
-Conhecimento em containers, ex. docker; Virtualização de serviços, Kubernetes, Openshift;
-Conhecimentos em Keycloak, Oauth2, LDAP, Fluentd, Elastic Search, Kibana
-Conhecimentos em mensageria RabbitMQ e Kafka;
-Banco de dados Oracle, SQLServer e Redis;
-Experiência com Devops usando jenkins, nexus (Nuget) e ferramentas de CI/CD.
