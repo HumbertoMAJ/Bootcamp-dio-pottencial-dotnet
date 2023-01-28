@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.exe
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.deps.json
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.runtimeconfig.json
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.dll
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.pdb
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.AssemblyInfo.cs
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.dll
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\refint\Projeto01.dll
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.pdb
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.genruntimeconfig.cache
+C:\Users\User\Desktop\bootcamp\Projeto01\Projeto01\obj\Debug\net6.0\ref\Projeto01.dll
